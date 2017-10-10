@@ -1,0 +1,27 @@
+/*h2 styling*/
+h2 {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-family: "Arial";
+}
+
+/*Jumbotron styling*/
+h1 {color: white;}
+.white {
+  color: white;
+  margin-left: 15px;
+}
+
+/*Other styling*/
+body {
+margin-bottom: 10px auto;
+}
+
+.card {
+  margin-bottom: 0.5em;
+}
+
+.theme {
+  margin: 0.5em;
+  font-size: 1.1em;
+}
